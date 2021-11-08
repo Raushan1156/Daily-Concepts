@@ -5,7 +5,7 @@ An Android LinearLayout that supports draggable and swappable child Views.
 ## Add it to your project using Gradle:
 
 ```dependency
-compile 'com.jmedeisis:draglinearlayout:1.1.0'
+implementation 'com.jmedeisis:draglinearlayout:1.1.0'
 ```
 
 ## main_activity.xml
